@@ -1,0 +1,11 @@
+/Users/stejohnson/Projects/todo-svelte-main/src-tauri/target/debug/deps/string_cache-1fd503961a0a0bd7.rmeta: /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/lib.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/atom.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/dynamic_set.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/static_sets.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/trivial_impls.rs
+
+/Users/stejohnson/Projects/todo-svelte-main/src-tauri/target/debug/deps/libstring_cache-1fd503961a0a0bd7.rlib: /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/lib.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/atom.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/dynamic_set.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/static_sets.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/trivial_impls.rs
+
+/Users/stejohnson/Projects/todo-svelte-main/src-tauri/target/debug/deps/string_cache-1fd503961a0a0bd7.d: /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/lib.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/atom.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/dynamic_set.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/static_sets.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/trivial_impls.rs
+
+/Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/lib.rs:
+/Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/atom.rs:
+/Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/dynamic_set.rs:
+/Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/static_sets.rs:
+/Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/trivial_impls.rs:

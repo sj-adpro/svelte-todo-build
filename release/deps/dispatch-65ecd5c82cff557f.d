@@ -1,0 +1,12 @@
+/Users/stejohnson/Projects/todo-svelte-main/src-tauri/target/release/deps/dispatch-65ecd5c82cff557f.rmeta: /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/lib.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/ffi.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/group.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/queue.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/once.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/sem.rs
+
+/Users/stejohnson/Projects/todo-svelte-main/src-tauri/target/release/deps/libdispatch-65ecd5c82cff557f.rlib: /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/lib.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/ffi.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/group.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/queue.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/once.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/sem.rs
+
+/Users/stejohnson/Projects/todo-svelte-main/src-tauri/target/release/deps/dispatch-65ecd5c82cff557f.d: /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/lib.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/ffi.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/group.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/queue.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/once.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/sem.rs
+
+/Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/lib.rs:
+/Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/ffi.rs:
+/Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/group.rs:
+/Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/queue.rs:
+/Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/once.rs:
+/Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/sem.rs:

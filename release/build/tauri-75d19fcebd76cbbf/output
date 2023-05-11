@@ -1,0 +1,6 @@
+cargo:rustc-cfg=custom_protocol
+cargo:rustc-cfg=desktop
+cargo:rustc-cfg=dialog_message
+cargo:rustc-cfg=dialog_ask
+cargo:rustc-cfg=dialog_confirm
+cargo:rustc-cfg=dialog_any

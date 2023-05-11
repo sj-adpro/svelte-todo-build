@@ -1,0 +1,12 @@
+/Users/stejohnson/Projects/todo-svelte-main/src-tauri/target/release/deps/state-5287bcdf9c11551f.rmeta: /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs
+
+/Users/stejohnson/Projects/todo-svelte-main/src-tauri/target/release/deps/libstate-5287bcdf9c11551f.rlib: /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs
+
+/Users/stejohnson/Projects/todo-svelte-main/src-tauri/target/release/deps/state-5287bcdf9c11551f.d: /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs
+
+/Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs:
+/Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs:
+/Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs:
+/Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs:
+/Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs:
+/Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs:

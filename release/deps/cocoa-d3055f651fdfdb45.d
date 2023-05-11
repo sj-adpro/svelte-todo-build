@@ -1,0 +1,12 @@
+/Users/stejohnson/Projects/todo-svelte-main/src-tauri/target/release/deps/cocoa-d3055f651fdfdb45.rmeta: /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/lib.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/appkit.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/base.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/foundation.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/quartzcore.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/macros.rs
+
+/Users/stejohnson/Projects/todo-svelte-main/src-tauri/target/release/deps/libcocoa-d3055f651fdfdb45.rlib: /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/lib.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/appkit.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/base.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/foundation.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/quartzcore.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/macros.rs
+
+/Users/stejohnson/Projects/todo-svelte-main/src-tauri/target/release/deps/cocoa-d3055f651fdfdb45.d: /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/lib.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/appkit.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/base.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/foundation.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/quartzcore.rs /Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/macros.rs
+
+/Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/lib.rs:
+/Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/appkit.rs:
+/Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/base.rs:
+/Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/foundation.rs:
+/Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/quartzcore.rs:
+/Users/stejohnson/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/macros.rs:
